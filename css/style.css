@@ -1,0 +1,71 @@
+#time {
+    font-size: 2.5rem;
+	margin: 30px 0;
+}
+
+#date{
+    font-size:35px;
+    margin: 10px 0;
+}
+#day{
+    font-size:30px;
+    margin: 10px 0;
+}
+#mood{
+    font-size:1.5rem;
+    line-height: 100%;
+}
+.sunday{
+    color:#FF3819;
+}
+.saturday{
+    color:#4285f4;
+}
+select{
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    border-radius:6px;
+    width: 180px;
+    height: 47px;
+    line-height: 47px;
+    font-size: 13px;
+    text-indent: 1em;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+    background:#4285f4;
+    background-size:30px 30px;
+    background-position: right 25px center;
+}
+select option{
+	background-image: url();
+}
+.red{
+    color:rgb(219, 68, 55);
+}
+.green{
+    color:rgb(15, 157, 88);
+}
+.yellow{
+    color:rgb(244, 180, 0);
+}
+.blue{
+    color:rgb(66, 133, 244);
+}
+#trend{
+	background-color: #ffffff;
+	padding: 10px 10px 20px 10px;
+}
+#feed{
+	list-style-type: decimal;
+}
+#feed li a{
+	color: #ffffff;
+	text-decoration: none;
+	font-size: 20px;
+}
+footer h4 a{
+	color: #fff;
+	text-decoration: none;
+}
